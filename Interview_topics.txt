@@ -1,0 +1,70 @@
+* SOLID
+
+* Структуры данных
+Стек = LIFO  (last input first out) 
+FIFO (first input first out = очередь)
+списки связные, односвязные, двусвязные
+
+* Методологии разработки 
+Agile(гибкая): scrum, kanban
+Waterfall(с четким видением какой будет продукт, какой функционал. Есть четкое ТЗ)
+
+* Http запрос состоит из url head body
+
+* База данных sql nosql
+
+*  ПИНЦИПЫ -KISS(keep it short and simple) -DRY(dont repeat yourself совет не дублировать код) -YAGNI
+
+* Set Map объекты
+
+* Контекст вызова this в функции, стрелочной, объекте.. и bind apply call
+
+* Http статусы 100 200 300 400 500
+
+
+* Метод объекта tostring
+10.toString() ошибки не будет.. boxing unboxing чет там...
+
+* Статические методы класса
+
+* TCP UDP протоколы
+
+* Переопределение методов класса и перегрузка
+
+* Get post put delete option patch
+
+* Git reset, reset hard, reset soft, mixed(default)
+* Git stash git unstash
+
+* Localstorage sessionstorage cookie cash
+
+* Сборщик мусора garbage collector
+
+* Сложность алгоритма
+Сложность поиска в двумерном массиве: О от n2
+
+* Xss атаки, когда крадут куки
+
+* флаг Httponly
+
+
+* DOM инкапсуляция наследование полиморфизм
+
+* Класс конструктор super
+
+* Event loop, micro/macro tasks (qa, очередь, web api)
+
+* Docker
+
+* Tests: unit tests = функциональное тестирование(модули), end to end всю стстему, интергационные (взаимодействие между модулями)
+
+
+* Json.stringify сериализация
+
+* Http https
+
+* Базы данных реляционные, нереляционные
+
+* Postman, Swagger
+
+* Транзакция это когда выполняются либо все предусмотренные операции, либо если одна из них не выполнится, остальные отменяются.
